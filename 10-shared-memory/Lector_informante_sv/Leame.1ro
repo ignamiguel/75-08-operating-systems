@@ -1,0 +1,9 @@
+Condicion de carrera
+Escribe1 escribe un dato en el area compartida de memoria
+Escribe20 escribe 20 datos en sucesion, los acumula (suma) en el area compartida Duerme  n seg entre escrituras
+invocacion: Escribe20 n
+Lee1 lee un dato del area de memoria compartida
+LeeMucho hace un ciclo de lectura del area compartida. Pone el acumulador en cero luego de cada lectura. 
+Duerme en el ciclo (n seg) y antes de poner el acumulador a cero (n/2 seg)
+Invocacion: Leemucho n
+libera: libera el area compartida. Invocarlo antes de cada prueba

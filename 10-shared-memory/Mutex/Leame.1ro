@@ -1,0 +1,7 @@
+Prueba de algoritmos de software para la exclusion mutua
+
+Los algoritmos enta progamados en los archivos Mutxn.h
+que se incluyen en Mutex.h y se usan em proceso.cpp y en inicializa.cpp
+Primero se corre inicializa.
+Cada proceso se invoca con un numero 
+LiberaMutex libera el area compartida
